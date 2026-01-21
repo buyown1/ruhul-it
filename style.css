@@ -1,0 +1,57 @@
+body{
+    background-image: url(pic/5079724.jpg);
+     background-repeat: no-repeat;
+  background-attachment: fixed;  
+  background-size: cover;
+
+}
+.i{
+    
+}
+.t{
+    color: rgb(255, 254, 254);
+    font-size: 4rem;
+    margin-bottom: 15%;
+    font-weight: bolder;
+}
+.d{
+    color: rgb(212, 0, 255);
+}
+.b{
+    border-radius: 100%;
+}
+.nav{
+    background-color: rgb(222, 0, 0);
+}
+.n{
+    width: 400px;
+}
+.likha{
+  color: aliceblue;
+   
+}
+.he{
+    margin-top: 30%;
+    font-size: 3rem;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(252, 253, 255);
+}
+.ho :hover{
+   color: black;
+}
+.card1{
+     background: linear-gradient(135deg, #ec14dd, #562ddbd7);
+  border-radius: 20px;
+  padding: 40px;
+  color: #ffffff;
+  box-shadow: 0 20px 40px rgba(0,0,0,0.15);
+  width:100%;
+ 
+   
+}
+.tik{  
+    
+    font-weight: bold;
+     font-size: 25px;
+    
+}
